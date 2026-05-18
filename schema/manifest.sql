@@ -1,0 +1,2 @@
+-- Schema manifest for analyzer-test-sql fixture
+-- Version: 1.0.0
