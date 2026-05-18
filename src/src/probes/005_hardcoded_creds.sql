@@ -1,0 +1,2 @@
+-- PROBE-SEC-001: hardcoded credential in comment/script (fake)
+-- password=SuperSecret123! user=admin host=db.internal
